@@ -1,0 +1,50 @@
+<div class="paicard">
+                <div class="cad">
+                    <video src="https://www.youtube.com/watch?v=P0mvIdhsg7Q&t=18s"></video>
+                    <div class="sub">
+                        <h4>Shingeki no Kyojin</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima soluta iure, numquam hic dolor minus nisi! Dolorum recusandae tempore perferendis. Sapiente magnam rem officiis esse provident totam non temporibus dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos doloribus eveniet repellendus quo placeat eius eaque aliquid Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit voluptate cumque facere quaerat odit Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus officiis eius corrupti laborum et officia ipsum nemo ipsa quidem quae rem tenetur corporis iure, dolorem at quam sint similique hic!  </p>
+                    </div>
+                    <div class="button"><button><a href="../HTML/Shingeki.html"> Saiba+</a></button></div>
+                </div>
+                <div class="cad">
+                    <video src=""></video>
+                    <div class="sub">
+                        <h4>Jujutsu no Kaisen</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro iure, ex animi ratione magnam dignissimos rem, temporibus odit reprehenderit quia repellendus, quo sunt. Magnam minima quos temporibus officia rerum beatae.</p>
+                    </div>
+                    <div class="button"><button><a href="../HTML/Jujutso.html"> Saiba+</a></button></div>
+                </div>
+                <div class="cad">
+                    <video src=""></video>
+                    <div class="sub">
+                        <h4>TOUHOU</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro iure, ex animi ratione magnam dignissimos rem, temporibus odit reprehenderit quia repellendus, quo sunt. Magnam minima quos temporibus officia rerum beatae.</p>
+                    </div>
+                    <div class="button"><button><a href="../HTML/Jujutso.html"> Saiba+</a></button></div>
+                </div>
+                <div class="cad">
+                    <video src=""></video>
+                    <div class="sub">
+                        <h4>FULL METAL</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro iure, ex animi ratione magnam dignissimos rem, temporibus odit reprehenderit quia repellendus, quo sunt. Magnam minima quos temporibus officia rerum beatae.</p>
+                    </div>
+                    <div class="button"><button><a href="../HTML/Jujutso.html"> Saiba+</a></button></div>
+                </div>
+                <div class="cad">
+                    <video src=""></video>
+                    <div class="sub" >
+                        <h4>DEATH NOTE</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro iure, ex animi ratione magnam dignissimos rem, temporibus odit reprehenderit quia repellendus, quo sunt. Magnam minima quos temporibus officia rerum beatae.</p>
+                    </div>
+                    <div class="button"><button><a href="../HTML/Jujutso.html"> Saiba+</a></button></div>
+                </div>
+                <div class="cad">
+                    <video src=""></video>
+                    <div class="sub">
+                        <h4>BLEACH</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro iure, ex animi ratione magnam dignissimos rem, temporibus odit reprehenderit quia repellendus, quo sunt. Magnam minima quos temporibus officia rerum beatae.</p> 
+                    </div>
+                    <div class="button"><button><a href="../HTML/Jujutso.html"> Saiba+</a></button></div>
+                </div>
+</div>
